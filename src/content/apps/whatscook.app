@@ -15,4 +15,6 @@ platforms:
     url: "https://play.google.com/store/apps/details?id=com.softwarebakery.whatscook"
   - name: "iOS"
     url: "https://apps.apple.com/en/app/whatscook-easy-meal-planning/id6478971593"
+  - name: "Web"
+    url: "https://whatscook.app"
 ---

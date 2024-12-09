@@ -12,4 +12,6 @@ platforms:
     url: "https://play.google.com/store/apps/details?id=com.softwarebakery.packy"
   - name: "iOS"
     url: "https://apps.apple.com/app/id6670154150"
+  - name: "Web"
+    url: "https://getpacky.app"
 ---

@@ -61,7 +61,7 @@ jobs:
             
             if [ -z "$CHANGED_FILES" ]; then
               echo "No relevant files changed"
-              exit 0
+              exit 1
             fi
             
             # Use the first changed file
@@ -92,7 +92,7 @@ jobs:
             # Check if app already has a discussion by looking in votes file
             if grep -q "\"$NAME\":" src/data/votes_*.json; then
               echo "Discussion already exists for $NAME"
-              exit 0
+              exit 1
             fi
             
             # Set outputs

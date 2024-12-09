@@ -1,13 +1,7 @@
 ---
 name: "Aggregator News"
 author: "And96"
-description: "Aggregator News is an RSS Feed Reader to read news for free, quickly, without ads. 
-
-The application allows you to quickly aggregate information from various sources, enabling you to have all the news grouped and organized in one place. Unlike social networks, where article priority is determined by algorithms, in this app, news remains in chronological order. 
-
-With a simple and Material Design interface you can choose which topics and sites to follow.
-
-It respects your privacy, no email/registration is required, and no data is collected. Everything you need is ready to offer you a fast, clean, and completely free experience, with no ads and no sign-ups."
+description: "Aggregator News is a fast, customizable RSS reader. Aggregate news from various sources, organize them chronologically, and select your favorite topics and sites to follow. Ad-free, lightweight, and designed to deliver quick updates without any ads."
 dateLaunched: "2024-12-31"
 images:
   - "../../assets/apps/0.jpg"

@@ -7,7 +7,7 @@ images:
   - "../../assets/apps/honeydo-1.png"
   - "../../assets/apps/honeydo-2.png"
   - "../../assets/apps/honeydo-3.png"
-  - “../../assets/apps/honeydo-4.png”
+  - "../../assets/apps/honeydo-4.png"
 platforms:
   - name: "Android"
     url: "https://gethoneydo.app/playstore.html"

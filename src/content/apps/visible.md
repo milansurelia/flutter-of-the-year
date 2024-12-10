@@ -1,5 +1,5 @@
 ---
-name: "Visible: Pacing for illness"
+name: "Visible - Pacing for illness"
 author: "Visible Health"
 description: "Activity tracking platform for illness, not fitness. Our mission is to help people to manage their energy-limiting illness. Our mobile app can be used in combination with a wearable heart rate monitor which helps people to implement an energy management strategy called pacing."
 dateLaunched: "2022-11-21"

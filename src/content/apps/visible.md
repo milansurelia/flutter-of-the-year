@@ -13,4 +13,6 @@ platforms:
     url: "https://play.google.com/store/apps/details?id=com.makevisible.visible"
   - name: "iOS"
     url: "https://apps.apple.com/us/app/visible-pacing-for-illness/id1624474919"
+  - name: "Web"
+    url: "https://www.makevisible.com/"
 ---

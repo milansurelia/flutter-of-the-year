@@ -5,7 +5,7 @@ description: "🪴 PERSONAL GROWTH STARTS HERE
 
 Discover what's important to you and how you're feeling about those parts of your life in our guided, reflective experience.
 
-Track your fulfillment in whatever's key to your well-being: relationships, achievement, inner peace, recovery, love, or anything you choose."
+Track your fulfillment in whatever's key to your well-being: relationships, achievement, inner peace, love, and more."
 dateLaunched: "2022-10-01"
 images:
   - "../../assets/apps/wellness-wheel-1.png"

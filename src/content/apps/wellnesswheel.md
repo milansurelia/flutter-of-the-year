@@ -16,7 +16,6 @@ images:
   - "../../assets/apps/wellness-wheel-6.png"
   - "../../assets/apps/wellness-wheel-7.png"
   - "../../assets/apps/wellness-wheel-8.png"
-  - "../../assets/apps/wellness-wheel-9.png"
 platforms:
   - name: "Android"
     url: "https://play.google.com/store/apps/details?id=com.enduringbeta.wellnesswheel"

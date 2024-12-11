@@ -1,9 +1,7 @@
 ---
 name: "BookBinder"
 author: "CodeBlock"
-description: "BookBinder is the ultimate app for book lovers! Effortlessly manage your library, track your reading progress, and set goals—all in one user-friendly platform. Add books with ease using ISBN scans, title searches, or author lookups, and enjoy seamless syncing across all your devices.
-
-Whether you’re an avid reader, a casual bookworm, or a student, BookBinder helps you stay organized and make the most of your reading journey."
+description: "BookBinder is the ultimate app for book lovers! Effortlessly manage your library, track your reading progress, and set goals—all in one user-friendly platform. Add books with ease using ISBN scans, title searches, or author lookups, and enjoy seamless syncing across all your devices. Whether you’re an avid reader, a casual bookworm, or a student, BookBinder helps you stay organized and make the most of your reading journey."
 dateLaunched: "2024-04-05"
 images:
   - "../../assets/apps/bookbinder-1.png"

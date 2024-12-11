@@ -11,4 +11,10 @@ images:
   - "../../assets/apps/iloomi-3.png"
   - "../../assets/apps/iloomi-4.png"
 platforms:
+  - name: "iOS"
+    url: "https://apps.apple.com/us/app/iloomi/id6467228839"
+  - name: "Android"
+    url: "https://play.google.com/store/apps/details?id=com.iloomi.app.prod&hl=en_US"
+  - name: "Web"
+    url: "https://iloomi.app/"
 ---

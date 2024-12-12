@@ -1,7 +1,7 @@
 ---
 name: "ServerCtrl"
 author: "blitzdose"
-description: "ServerCtrl lets you control your Spigot/Paper Minecraft server with ease with this Android, Windows, or Linux app or directly from the web on any device. This also works with Minecraft hosters because all the functionality is available by just installing the mandatory plugin directly on your server.  Don't like the boring web interface your server comes with? Switch to ServerCtrl!"
+description: "ServerCtrl lets you control your Spigot/Paper Minecraft server with ease with this Android, Windows, or Linux app or directly from the web on any device."
 dateLaunched: "2019-10-24"
 images:
   - "../../assets/apps/serverctrl-1.png"

@@ -11,7 +11,7 @@ images:
   - "../../assets/apps/tangrid-5.jpg"
   - "../../assets/apps/tangrid-6.jpg"
   - "../../assets/apps/tangrid-7.jpg"
-  - "../../assets/apps/tangrid-8.png"
+  - "../../assets/apps/tangrid-8.jpg"
 platforms:
   - name: "Android"
     url: "https://play.google.com/store/apps/details?id=com.space.dataark.taotao"

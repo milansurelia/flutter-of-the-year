@@ -1,7 +1,7 @@
 ---
 name: "Hyper Zones"
 author: "Birju Vachhani, Saad Ardar"
-description: "Experience effortless time zone management like never before with Hyper Zones, the best solution for remote workers, global teams, and distant friends & families.
+description: "Experience effortless time zone management like never before with Hyper Zones, the best solution for remote workers, global teams, and distant friends & families."
 dateLaunched: "2024-02-29"
 images:
   - "../../assets/apps/hyper-zones-1.png"

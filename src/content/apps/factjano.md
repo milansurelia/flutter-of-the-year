@@ -17,6 +17,6 @@ platforms:
     url: "https://play.google.com/store/apps/details?id=com.tdevelopers.factjano"
   - name: "iOS"
     url: "https://apps.apple.com/us/app/random-fun-facts-factjano/id6664073325"
-  - name: "web"
+  - name: "Web"
     url: "https://factjano.com/"
 ---

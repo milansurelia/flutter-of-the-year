@@ -1,0 +1,25 @@
+---
+name: "Hyper Zones"
+author: "Birju Vachhani, Saad Ardar"
+description: "Experience effortless time zone management like never before with Hyper Zones, the best solution for remote workers, global teams, and distant friends & families."
+dateLaunched: "2024-02-29"
+images:
+  - "../../assets/apps/hyper-zones-1.png"
+  - "../../assets/apps/hyper-zones-2.png"
+  - "../../assets/apps/hyper-zones-3.png"
+  - "../../assets/apps/hyper-zones-4.png"
+  - "../../assets/apps/hyper-zones-5.png"
+  - "../../assets/apps/hyper-zones-6.png"
+  - "../../assets/apps/hyper-zones-7.png"
+platforms:
+  - name: "Android"
+    url: "https://play.google.com/store/apps/details?id=dev.hyperdesigned.hyperzones"
+  - name: "iOS"
+    url: "https://apps.apple.com/us/app/hyper-zones/id6478041584"
+  - name: "Web"
+    url: "https://my.hyperzones.app"
+  - name: "macOS"
+    url: "https://apps.apple.com/us/app/hyper-zones/id6478041584"
+  - name: "Windows"
+    url: "https://firebasestorage.googleapis.com/v0/b/hyper-zones.appspot.com/o/artifacts%2Fwindows%2FHyperZones-latest.exe?alt=media"
+---

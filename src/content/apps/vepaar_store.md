@@ -1,7 +1,7 @@
 ---
 name: "Vepaar Store"
 author: "7Span"
-description: "The Vepaar Store App is your go-to tool for running an online store effortlessly. From showcasing products to managing inventory and tracking orders, everything is designed to be simple and user-friendly. Built with Flutter for a smooth experience on both Android and iOS, the app helps you stay connected with customers, accept payments, and keep things running smoothly. With Vepaar Store, managing your business has never been easier!"
+description: "The Vepaar Store App is your go-to tool for running an online store effortlessly. From showcasing products to managing inventory and tracking orders, everything is designed to be simple and user-friendly."
 dateLaunched: "2024-10-28"
 images:
   - "../../assets/apps/vepaar-store-1.png"

@@ -1,5 +1,5 @@
 ---
-name: "Cloud gallery"
+name: "Cloud Gallery"
 author: "Jimmy sanghani"
 description: "Cloud Gallery: All Your Memories in One Spot. Enjoy all your media in one spot! Easily view and manage photos, videos from Google Drive, Dropbox, and your device, all in a simple, user-friendly interface. It is an open-source Flutter project."
 dateLaunched: "2024-04-30"

@@ -1,4 +1,8 @@
 {
+  "ScholArxiv": {
+    "slug": "/hungrimind/flutter-of-the-year/discussions/36",
+    "votes": 251
+  },
   "Paisa - Expense Tracker": {
     "slug": "/hungrimind/flutter-of-the-year/discussions/121",
     "votes": 43
@@ -150,10 +154,6 @@
   "Speaking Flashcards": {
     "slug": "/hungrimind/flutter-of-the-year/discussions/47",
     "votes": 1
-  },
-  "ScholArxiv": {
-    "slug": "/hungrimind/flutter-of-the-year/discussions/36",
-    "votes": 250
   },
   "Firebase FCM Notification": {
     "slug": "/hungrimind/flutter-of-the-year/discussions/29",

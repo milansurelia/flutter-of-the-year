@@ -1,4 +1,8 @@
 {
+  "Futoshiki": {
+    "slug": "/hungrimind/flutter-of-the-year/discussions/32",
+    "votes": 38
+  },
   "ScholArxiv": {
     "slug": "/hungrimind/flutter-of-the-year/discussions/36",
     "votes": 253
@@ -6,10 +10,6 @@
   "Paisa - Expense Tracker": {
     "slug": "/hungrimind/flutter-of-the-year/discussions/121",
     "votes": 43
-  },
-  "Futoshiki": {
-    "slug": "/hungrimind/flutter-of-the-year/discussions/32",
-    "votes": 37
   },
   "Cloud Gallery": {
     "slug": "/hungrimind/flutter-of-the-year/discussions/118",
@@ -61,7 +61,7 @@
   },
   "Hyper Zones": {
     "slug": "/hungrimind/flutter-of-the-year/discussions/98",
-    "votes": 14
+    "votes": 15
   },
   "Bedtime": {
     "slug": "/hungrimind/flutter-of-the-year/discussions/97",

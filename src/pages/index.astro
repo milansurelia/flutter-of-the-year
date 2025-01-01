@@ -63,7 +63,7 @@ const sortedApps = allApps.sort((a, b) => {
           <h1
             class="text-6xl font-bold mt-16 mb-4 text-white"
           >
-            The Best Flutter Apps of {currentYear}<span class="inline-block animate-sparkle">✨</span>
+            The Best Flutter Apps of 2024<span class="inline-block animate-sparkle">✨</span>
           </h1>
           <a href="https://hungrimind.com/learn/flutter?utm_source=flutter_of_the_year&utm_medium=website" class="text-neutral-400 text-xl hover:text-neutral-300 transition-colors">
             Sponsored by <b class="text-neutral-200 hover:text-white transition-colors font-bold">Hungrimind</b>  
@@ -72,7 +72,7 @@ const sortedApps = allApps.sort((a, b) => {
             Vote for your favorite Flutter apps or submit your own app to be featured in this year's collection. <strong>Every vote counts</strong>, and you can vote for multiple apps that impress you!
           </p>
 
-          <div class="flex flex-col items-center gap-2 mb-16">
+          <!-- <div class="flex flex-col items-center gap-2 mb-16">
             <p class="text-sm text-blue-200/60">Time left to submit and vote</p>
             <div class="flex gap-4 text-center">
               <div class="w-20">
@@ -92,7 +92,7 @@ const sortedApps = allApps.sort((a, b) => {
                 <div class="text-xs text-blue-200/60 uppercase tracking-wider">Seconds</div>
               </div>
             </div>
-          </div>
+          </div> -->
 
           <!-- Submit CTA -->
           <div class="max-w-xl mx-auto mb-8">
@@ -696,7 +696,7 @@ platforms:${formData.platforms.map((p) => `
 
   function updateCountdown() {
     const now = new Date();
-    const endOfYear = new Date(now.getFullYear(), 11, 31, 23, 59, 59); // December 31st at 23:59:59
+    const endOfYear = new Date(now.getFullYear(), 11, 30, 23, 59, 59); // December 31st at 23:59:59
     const diff = endOfYear.getTime() - now.getTime();
 
     const days = Math.floor(diff / (1000 * 60 * 60 * 24));

@@ -9,7 +9,7 @@ export interface VoteData {
 
 export function getVotes(year?: number): VoteData {
   try {
-    const targetYear = year || new Date().getFullYear();
+    const targetYear = year || 2024;
     // During build time, this file will be created by GitHub Actions
     // We import it as a module to get the data
     const votes = import.meta.glob('/src/data/votes_*.json', { eager: true });
